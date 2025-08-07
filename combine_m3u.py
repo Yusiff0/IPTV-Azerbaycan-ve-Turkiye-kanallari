@@ -1,7 +1,7 @@
 import os
 
-AZ_FILE = "azerbaycan.m3u"
-TR_FILE = "turkiye.m3u"
+AZ_FILE = "az.m3u"
+TR_FILE = "tr.m3u"
 OUTPUT_FILE = "az_tr.m3u"
 
 def read_m3u(filename):
